@@ -1,11 +1,14 @@
 # Zepto-Data-Cleaning-Analysis-Using-SQL
 SQL data analytics project involving data exploration, cleaning, and business insights using Zepto e-commerce dataset.
 
+
 📁 Dataset Overview
 --------------------------------------------------------
+
 The dataset used in this project was sourced from Kaggle and contains product listings scraped from Zepto's e-commerce platform.
 
-Each row shows a specific version of a product (its SKU). You will see the same product name listed more than once because it might be sold in different sizes, weights, or categories, or with different discounts.
+Each row shows a specific version of a product its SKU (Stock Keeping Unit). 
+can see the same product name listed more than once because it might be sold in different sizes, weights, or categories, or with different discounts.
 
 
 | Column Name | Description |
