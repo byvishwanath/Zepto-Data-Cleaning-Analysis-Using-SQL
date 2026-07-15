@@ -24,29 +24,30 @@ can see the same product name listed more than once because it might be sold in 
 | **`outOfStock`** | A true/false flag showing whether the item is sold out. |
 | **`quantity`** | The number of items in a pack (or mixed with grams for loose items). |
 
-🧹 Data Cleaning
 
-Added an auto-increment primary key (serial_no).
-Checked for missing (NULL) values.
-Identified and removed invalid price records.
-Standardized price values by converting paise to rupees.
-Validated the cleaned dataset.
-Verified maximum and minimum values to detect anomalies.
-Checked for duplicate product entries.
-Validated product categories and stock availability.
+### 🧹 Data Cleaning
 
-📊 Data Analysis
+* Added an auto-increment primary key (`serial_no`).
+* Checked for missing (`NULL`) values.
+* Identified and removed invalid price records.
+* Standardized price values by converting paise to rupees.
+* Validated the cleaned dataset.
+* Verified maximum and minimum values to detect anomalies.
+* Checked for duplicate product entries.
+* Validated product categories and stock availability.
 
-Total inventory and product count.
-Category-wise product distribution.
-In-stock vs. out-of-stock analysis.
-Top discounted products.
-Highest and lowest priced products.
-Discount percentage analysis.
-Category-wise average pricing.
-Premium product identification.
-Inventory value estimation.
-Business insights and recommendations.
+### 📊 Data Analysis
+
+* Total inventory and product count.
+* Category-wise product distribution.
+* In-stock vs. out-of-stock analysis.
+* Top discounted products.
+* Highest and lowest priced products.
+* Discount percentage analysis.
+* Category-wise average pricing.
+* Premium product identification.
+* Inventory value estimation.
+* Business insights and recommendations.
 
 
 -----------------------------------------------------
