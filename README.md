@@ -53,12 +53,15 @@ can see the same product name listed more than once because it might be sold in 
 -----------------------------------------------------
 
 How to Run
+
 Clone this repository.
 git clone https://github.com/byvishwanath/Zepto-Data-Cleaning-Analysis-Using-SQL
 
 -------------------------------------------------------
 Author
+
 Vishwanath Bavandla
 ----------------------------------------------------------
 License
+
 This project is intended for educational and portfolio purposes.
