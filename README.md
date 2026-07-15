@@ -8,8 +8,6 @@ The dataset used in this project was sourced from Kaggle and contains product li
 Each row shows a specific version of a product (its SKU). You will see the same product name listed more than once because it might be sold in different sizes, weights, or categories, or with different discounts.
 
 
-Here is the column information organized into a clean, easy-to-read table:
-
 | Column Name | Description |
 | --- | --- |
 | **`serial_no`** | A unique ID for each product entry (acts as the main key). |
@@ -44,3 +42,16 @@ Category-wise average pricing.
 Premium product identification.
 Inventory value estimation.
 Business insights and recommendations.
+
+-----------------------------------------------------
+
+How to Run
+Clone this repository.
+git clone https://github.com/byvishwanath/Zepto-Data-Cleaning-Analysis-Using-SQL
+
+-------------------------------------------------------
+Author
+Vishwanath Bavandla
+----------------------------------------------------------
+License
+This project is intended for educational and portfolio purposes.
