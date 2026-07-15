@@ -31,10 +31,10 @@ can see the same product name listed more than once because it might be sold in 
 * Checked for missing (`NULL`) values.
 * Identified and removed invalid price records.
 * Standardized price values by converting paise to rupees.
-* Validated the cleaned dataset.
-* Verified maximum and minimum values to detect anomalies.
+* Verified maximum and minimum values to detect incorrect values.
 * Checked for duplicate product entries.
 * Validated product categories and stock availability.
+* Verified data after cleaning
 
 ### 📊 Data Analysis
 
