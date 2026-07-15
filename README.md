@@ -25,6 +25,7 @@ can see the same product name listed more than once because it might be sold in 
 | **`quantity`** | The number of items in a pack (or mixed with grams for loose items). |
 
 🧹 Data Cleaning
+
 Added an auto-increment primary key (serial_no).
 Checked for missing (NULL) values.
 Identified and removed invalid price records.
@@ -35,6 +36,7 @@ Checked for duplicate product entries.
 Validated product categories and stock availability.
 
 📊 Data Analysis
+
 Total inventory and product count.
 Category-wise product distribution.
 In-stock vs out-of-stock analysis.
